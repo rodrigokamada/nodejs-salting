@@ -2,6 +2,7 @@
   "name": "nodejs-salting",
   "version": "1.0.0",
   "description": "",
+  "license": "MIT",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,7 +13,6 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/rodrigokamada/nodejs-salting/issues"
   },

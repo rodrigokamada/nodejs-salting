@@ -1,0 +1,1 @@
+# Salting application example using Node.js

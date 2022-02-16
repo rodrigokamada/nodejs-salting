@@ -1,7 +1,7 @@
 {
   "name": "nodejs-salting",
   "version": "1.0.0",
-  "description": "",
+  "description": "There is a method in the crypto module called scrypt that we are going to use in the example.",
   "author": "Rodrigo Kamada <rodrigo@kamada.com.br> (https://github.com/rodrigokamada)",
   "license": "MIT",
   "main": "index.js",

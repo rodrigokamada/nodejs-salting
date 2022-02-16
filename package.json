@@ -2,19 +2,19 @@
   "name": "nodejs-salting",
   "version": "1.0.0",
   "description": "There is a method in the crypto module called scrypt that we are going to use in the example.",
+  "homepage": "https://github.com/rodrigokamada/nodejs-salting#readme",
   "author": "Rodrigo Kamada <rodrigo@kamada.com.br> (https://github.com/rodrigokamada)",
   "license": "MIT",
-  "main": "index.js",
-  "scripts": {
-    "start": "node src/index.js"
-  },
+  "keywords": [],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/rodrigokamada/nodejs-salting.git"
   },
-  "keywords": [],
   "bugs": {
     "url": "https://github.com/rodrigokamada/nodejs-salting/issues"
   },
-  "homepage": "https://github.com/rodrigokamada/nodejs-salting#readme"
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  }
 }

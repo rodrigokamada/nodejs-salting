@@ -5,7 +5,11 @@
   "homepage": "https://github.com/rodrigokamada/nodejs-salting#readme",
   "author": "Rodrigo Kamada <rodrigo@kamada.com.br> (https://github.com/rodrigokamada)",
   "license": "MIT",
-  "keywords": [],
+  "keywords": [
+    "salt",
+    "salting",
+    "scrypt"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/rodrigokamada/nodejs-salting.git"
